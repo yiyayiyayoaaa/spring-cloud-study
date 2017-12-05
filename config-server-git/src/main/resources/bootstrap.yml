@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/yiyayiyayoaaa/spring-cloud-config-repository/
+          username: yiyayiyayoaaa
+          password: xiao9433
+server:
+  port: 1201
