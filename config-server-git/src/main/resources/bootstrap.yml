@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/yiyayiyayoaaa/spring-cloud-config-repository/
-          username: yiyayiyayoaaa
-          password: xiao9433
+          username: *********
+          password: *****
 server:
   port: 1201
